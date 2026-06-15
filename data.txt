@@ -1,0 +1,8 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+
+Machine Learning is a subset of AI that enables systems to learn from data.
+
+Large Language Models (LLMs) are advanced AI systems trained on massive datasets to understand and generate human-like text.
+
+Retrieval Augmented Generation (RAG) combines information retrieval with LLMs to provide more accurate and context-aware responses.
+  
